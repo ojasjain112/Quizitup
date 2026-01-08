@@ -1,4 +1,4 @@
-# Quizitup 🧠✨
+# Quizitup - AI Powered Quiz App 🧠✨
 
 **Quizitup** is a next-generation quiz application designed to revolutionize how we learn and play. By combining the power of **Artificial Intelligence** with a vibrant, gamified user experience, Quizitup allows users to generate unique quizzes on *any* topic instantly, challenge themselves, and track their growth.
 
@@ -79,6 +79,7 @@ We are constantly innovating to make Quizitup the ultimate trivia platform. Here
 ---
 
 *Quizitup - Learn Anything, Play Anywhere.*
+
 
 
 
