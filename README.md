@@ -3,7 +3,7 @@
 **Quizitup** is a next-generation quiz application designed to revolutionize how we learn and play. By combining the power of **Artificial Intelligence** with a vibrant, gamified user experience, Quizitup allows users to generate unique quizzes on *any* topic instantly, challenge themselves, and track their growth.
 
 <p align="center">
-  <img src="Quizitup/Logo.png" width="150" alt="Quizitup Logo">
+  <img src="https://github.com/ojasjain112/Quizitup/blob/main/Logo.png" width="150" alt="Quizitup Logo">
 </p>
 
 ---
@@ -79,5 +79,6 @@ We are constantly innovating to make Quizitup the ultimate trivia platform. Here
 ---
 
 *Quizitup - Learn Anything, Play Anywhere.*
+
 
 
