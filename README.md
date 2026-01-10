@@ -4,8 +4,10 @@
 
 🔗 Try It Out
 Experience Quizitup across platforms:
-🌐 Web App: quizitup-cac85.web.app
-📱 Android (APK): Download from Google Drive
+
+🌐 Web App: [quizitup-cac85.web.app](https://quizitup-cac85.web.app)
+
+📱 Android (APK): [Download from Google Drive](https://drive.google.com/drive/folders/1Ih9A7tmVXLIeWksDX8bTz4-Q7HqJXMwG?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/ojasjain112/Quizitup/blob/main/Logo.png" width="500" alt="Quizitup Logo">
@@ -84,6 +86,7 @@ We are constantly innovating to make Quizitup the ultimate trivia platform. Here
 ---
 
 *Quizitup - Learn Anything, Play Anywhere.*
+
 
 
 
